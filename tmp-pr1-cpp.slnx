@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="tmp-pr1-cpp.vcxproj" />
+  <Project Path="tmp-pr1-cpp.vcxproj" Id="a3d35b36-c94e-499c-b818-e423cb45344a" />
 </Solution>
